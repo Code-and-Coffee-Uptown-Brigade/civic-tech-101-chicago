@@ -19,7 +19,7 @@ What is civic hacking?
 Civic
 ---
 _relating to the duties or activities of people in relation to their town, city, or local area._
-![](https://farm3.staticflickr.com/2439/3950012517_f0f0ec621f_b.jpg)
+![](http://images2.onionstatic.com/clickhole/3435/9/16x9/800.jpg
 ---
 Hacking
 ---
