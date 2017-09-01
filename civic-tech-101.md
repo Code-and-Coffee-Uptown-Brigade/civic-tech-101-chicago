@@ -4,35 +4,44 @@ First things first...
 
 Who am I?
 ---
-CPS (bureaucrat, digital projects)
+1. GSA (bureaucrat, digital projects)
 
-Starter League (learned Ruby on Rails)
+2. Self-guided Python learner (<a href="https://chipy.org">ChiPy Mentorship</a>, do it)
 
-DivvyBrags (first civic hack)
+3. `@realtrumpybot` (first civic "hack")
+![](https://pbs.twimg.com/media/DBMoxoPXkAAcbPz.jpg)
 
-Start Up Chile (learn lots, fail lots)
+4. The Service Connection
 
-Code for America (2015)
 ---
 What is civic hacking?
 ---
 Civic
 ---
+_relating to the duties or activities of people in relation to their town, city, or local area._
 ![](https://farm3.staticflickr.com/2439/3950012517_f0f0ec621f_b.jpg)
 ---
 Hacking
 ---
-![](https://farm6.staticflickr.com/5560/14732878728_241c9631fa_o.jpg)
+>A hacker is someone who loves to make stuff and is fascinated by complex systems, which they enjoy creating, extending and subverting.
+_Andy Hertzfeld, MAC WIZARD, GOOGLE ENGINEER_
+
+![](https://www.wired.com/wp-content/uploads/2014/11/1QHd9A_T5BfRBcMlK5rEZOA.jpeg)
+>“Hacker” is a word whose meaning forks both positively and negatively, like “fuck” — many of those who call themselves hackers are brilliant programmers with ideals, others are brilliant programmers with nefarious intent. The public will never understand.
+_Ted Nelson, AUTHOR, CREATOR OF XANADU_
+
+~[](https://www.wired.com/wp-content/uploads/2014/11/1fsDkOm51ASea7orwkQvFPg.jpeg)
+
 ---
 Here are 10 ways
 
 ~
-  
+
 you can help out by civic hacking
 
 ~
-  
-and civic hacking can help you 
+
+and civic hacking can help you
 ---
 1 Start a civic side project
 ---
@@ -80,7 +89,7 @@ www.codeforamerica.org/geeks/civicissues
 ---
 ![](http://i.imgur.com/SuSSg1h.png)
 ---
-Side benefits of helping out: 
+Side benefits of helping out:
 
 Meet smart people and mentors
 
@@ -88,7 +97,7 @@ Expand your tech network
 
 Build that Github profile
 ---
-6 Respectfully redesign government 
+6 Respectfully redesign government
 ---
 ![](https://pbs.twimg.com/media/BpQEO_fCQAAUmfe.jpg:large)
 ---
@@ -118,7 +127,7 @@ Work for @ChicagoCTO! (Or at least follow her)
 ---
 Attribution:
 
-~ 
+~
 
 Roman forum photo, Flickr user [William Hall](https://www.flickr.com/photos/life_in_megapixels/)
 MIT hack photo, flickr user [Richard](https://www.flickr.com/photos/rich701/)
